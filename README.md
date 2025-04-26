@@ -1,1 +1,3 @@
-# AlgorithmDesign-ProblemSolving
+# Algorithm Design & Problem Solving Project
+
+This program (CA module CMPU1001) is a simulation and development of a car parts firm’s order management system, providing a menu-driven interface for efficient product management. It initialises sample test data, reads data from the array, and sorts all product data by weight (from lightest to heaviest) using merge sort. It also allows adding, deleting, and updating product information, it searches for a product by weight using binary search, and generates a summary of the delivery docket (document listing content) information. All while focusing on efficient data processing, delivery generation, and user-friendly interaction.
