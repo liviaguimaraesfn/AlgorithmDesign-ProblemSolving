@@ -1,8 +1,8 @@
-/* Module: TU858/1 - CMPU1001 Algorithm Design and Problem Solving CA Project
+/* Module: TU858/1 - Algorithm Design and Problem Solving CA Project
 
-This program is a simulation and development of a car parts firm’s order management system, providing a menu-driven interface for efficient product management. It initialises sample test data, reads data from the array, and sorts all product data by weight (from lightest to heaviest) using merge sort. It also allows adding, deleting, and updating product information, it searches for a product by weight using binary search, and generates a summary of the delivery docket (document listing content) information. All while focusing on efficient data processing, delivery generation, and user-friendly interaction.
+Program Description: This program is a simulation and development of a car parts firm’s order management system, providing a menu-driven interface for efficient product management. It initialises sample test data, reads data from the array, and sorts all product data by weight (from lightest to heaviest) using merge sort. It also allows adding, deleting, and updating product information, it searches for a product by weight using binary search, and generates a summary of the delivery docket (document listing content) information. All while focusing on efficient data processing, delivery generation, and user-friendly interaction.
 
-Author: C24329646 - Lívia Ferreira Guimaraes Neves
+Author: Lívia Ferreira Guimaraes Neves
 Date: 25/04/2025 */
 
 // standard input output functions
